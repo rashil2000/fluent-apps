@@ -18,7 +18,7 @@ Windows Spotlight offers some unbelievably great looking wallpapers that refresh
 
 The system-wide theme can be switched from Settings.
 
-Make sure to check the 'Choose accent colour automatically' option (it's not checked here for some reason).
+Make sure to check the 'Choose accent colour automatically' option (it's not checked here for some reason) and the 'Transparency effects' option.
 
 ![Settings-Theme](https://github.com/rashil2000/Fluent-Customization/blob/master/Desktop/Screenshot%20(132).png)
 
