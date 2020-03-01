@@ -4,7 +4,7 @@ This can be made using [Rainmeter](https://www.rainmeter.net/), a free and open-
 
 ![Desktop Widgets](https://github.com/rashil2000/Fluent-Customization/blob/master/Desktop/Desktop%202020.01.28%20-%2023.58.51.jpg)
 
-If this is too much work, just press Windows key + G to open up the Game Bar to have a peek at the stats and also record screengrabs.
+If this is too much work, just press Windows key + G to open up the Game Bar to have a peek at the stats.
 
 ![Game Bar](https://github.com/rashil2000/Fluent-Customization/blob/master/Desktop/Screenshot%20(95).png)
 
