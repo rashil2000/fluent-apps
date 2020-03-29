@@ -14,6 +14,8 @@ Windows Spotlight offers some unbelievably great looking wallpapers that refresh
 
 ![Dynamic Theme](https://github.com/rashil2000/Fluent-Customization/blob/master/Desktop/Screenshot%20(158).png)
 
+If you're better off just downloading some wallpapers, check out this awesome website that has thousands of eye-popping wallpapers: [wallpaperhub.app](https://wallpaperhub.app/).
+
 # Theme and Colours
 
 The system-wide theme can be switched from Settings.
