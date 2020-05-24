@@ -12,6 +12,6 @@ And the `settings.json` file
 
 ![vscode-settings](https://github.com/rashil2000/Fluent-Customization/blob/master/VSCode/Screenshot%20(150).png)
 
-Here's a full screen view
+Here's another screenshot with Start Search (the theme in VS Code is Nord)
 
-![vscode-full](https://github.com/rashil2000/Fluent-Customization/blob/master/VSCode/Screenshot%20(146).png)
+![vscode-full](https://github.com/rashil2000/Fluent-Customization/blob/master/VSCode/Screenshot%20(166).png)
