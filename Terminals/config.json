@@ -1,0 +1,627 @@
+{
+  "App": {
+    "ConfirmClosingTabs": false,
+    "ConfirmClosingWindows": false,
+    "UnderlineSelectedTab": false,
+    "InactiveTabColorMode": "background",
+    "NewTerminalLocation": "tab",
+    "TabWindowCascadingAppMenu": true,
+    "TabsPosition": "top",
+    "CopyOnSelect": false,
+    "MouseMiddleClickAction": "none",
+    "MouseRightClickAction": "contextMenu",
+    "ShowNewOutputIndicator": false,
+    "EnableTrayIcon": true,
+    "ShowCustomTitleInTitlebar": true,
+    "UseMoshByDefault": false,
+    "AutoFallbackToWindowsUsernameInLinks": false,
+    "RTrimCopiedLines": true,
+    "MuteTerminalBeeps": true,
+    "EnableLogging": false,
+    "PrintableOutputOnly": true,
+    "LogDirectoryPath": "C:\\Users\\RashilGandhi\\AppData\\Local\\Packages\\53621FSApps.FluentTerminal_87x1pks76srcp\\LocalCache",
+    "UseConPty": true,
+    "ShowTextCopied": false
+  },
+  "KeyBindings": {
+    "ToggleWindow": [
+      {
+        "Command": "ToggleWindow",
+        "Key": 145,
+        "Ctrl": false,
+        "Alt": false,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "NextTab": [
+      {
+        "Command": "NextTab",
+        "Key": 9,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "PreviousTab": [
+      {
+        "Command": "PreviousTab",
+        "Key": 9,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "NewTab": [
+      {
+        "Command": "NewTab",
+        "Key": 84,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "NewWindow": [
+      {
+        "Command": "NewWindow",
+        "Key": 78,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "NewSshTab": [
+      {
+        "Command": "NewSshTab",
+        "Key": 89,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "NewSshWindow": [
+      {
+        "Command": "NewSshWindow",
+        "Key": 89,
+        "Ctrl": true,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "NewCustomCommandTab": [
+      {
+        "Command": "NewCustomCommandTab",
+        "Key": 84,
+        "Ctrl": true,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "NewCustomCommandWindow": [
+      {
+        "Command": "NewCustomCommandWindow",
+        "Key": 78,
+        "Ctrl": true,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "ChangeTabTitle": [
+      {
+        "Command": "ChangeTabTitle",
+        "Key": 82,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "CloseTab": [
+      {
+        "Command": "CloseTab",
+        "Key": 87,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "ShowSettings": [
+      {
+        "Command": "ShowSettings",
+        "Key": 188,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "Copy": [
+      {
+        "Command": "Copy",
+        "Key": 67,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "Paste": [
+      {
+        "Command": "Paste",
+        "Key": 86,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "PasteWithoutNewlines": [
+      {
+        "Command": "PasteWithoutNewlines",
+        "Key": 86,
+        "Ctrl": true,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "Search": [
+      {
+        "Command": "Search",
+        "Key": 70,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "ToggleFullScreen": [
+      {
+        "Command": "ToggleFullScreen",
+        "Key": 13,
+        "Ctrl": false,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      },
+      {
+        "Command": "ToggleFullScreen",
+        "Key": 122,
+        "Ctrl": false,
+        "Alt": false,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "SelectAll": [
+      {
+        "Command": "SelectAll",
+        "Key": 65,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "Clear": [
+      {
+        "Command": "Clear",
+        "Key": 76,
+        "Ctrl": true,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "SwitchToTerm1": [
+      {
+        "Command": "SwitchToTerm1",
+        "Key": 49,
+        "Ctrl": false,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "SwitchToTerm2": [
+      {
+        "Command": "SwitchToTerm2",
+        "Key": 50,
+        "Ctrl": false,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "SwitchToTerm3": [
+      {
+        "Command": "SwitchToTerm3",
+        "Key": 51,
+        "Ctrl": false,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "SwitchToTerm4": [
+      {
+        "Command": "SwitchToTerm4",
+        "Key": 52,
+        "Ctrl": false,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "SwitchToTerm5": [
+      {
+        "Command": "SwitchToTerm5",
+        "Key": 53,
+        "Ctrl": false,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "SwitchToTerm6": [
+      {
+        "Command": "SwitchToTerm6",
+        "Key": 54,
+        "Ctrl": false,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "SwitchToTerm7": [
+      {
+        "Command": "SwitchToTerm7",
+        "Key": 55,
+        "Ctrl": false,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "SwitchToTerm8": [
+      {
+        "Command": "SwitchToTerm8",
+        "Key": 56,
+        "Ctrl": false,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "SwitchToTerm9": [
+      {
+        "Command": "SwitchToTerm9",
+        "Key": 57,
+        "Ctrl": false,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "DuplicateTab": [
+      {
+        "Command": "DuplicateTab",
+        "Key": 68,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": true,
+        "Meta": false
+      }
+    ],
+    "ReconnectTab": [
+      {
+        "Command": "ReconnectTab",
+        "Key": 82,
+        "Ctrl": true,
+        "Alt": true,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "IncreaseFontSize": [
+      {
+        "Command": "IncreaseFontSize",
+        "Key": 187,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "DecreaseFontSize": [
+      {
+        "Command": "DecreaseFontSize",
+        "Key": 189,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": false,
+        "Meta": false
+      }
+    ],
+    "ResetFontSize": [
+      {
+        "Command": "ResetFontSize",
+        "Key": 48,
+        "Ctrl": true,
+        "Alt": false,
+        "Shift": false,
+        "Meta": false
+      }
+    ]
+  },
+  "TerminalOptions": {
+    "FontFamily": "VictorMono NF",
+    "FontSize": 16,
+    "FontWeight": 500,
+    "CursorStyle": "bar",
+    "CursorBlink": true,
+    "BellStyle": "none",
+    "ScrollBarStyle": "hidden",
+    "BackgroundOpacity": 0.69999998435378075,
+    "UseAcrylicBackground": true,
+    "Padding": 20,
+    "ScrollBackLimit": 1000,
+    "WordSeparator": " ()[]{}:;|│!&*<>@&quot;&squo;"
+  },
+  "Themes": [
+    {
+      "Id": "8e5d0f41-3d06-47fa-870e-9ab96d3202b5",
+      "Name": "Builtin Light",
+      "Author": null,
+      "PreInstalled": false,
+      "Colors": {
+        "Foreground": "#000000",
+        "Background": "#FFFFFF",
+        "Cursor": "#000000",
+        "CursorAccent": "#FFFFFF",
+        "Selection": "rgba(181, 213, 255, 0.30078125)",
+        "SelectionForeground": null,
+        "SelectionBackground": null,
+        "Black": "#000000",
+        "Red": "#BB0000",
+        "Green": "#00BB00",
+        "Yellow": "#BBBB00",
+        "Blue": "#0000BB",
+        "Magenta": "#BB00BB",
+        "Cyan": "#00BBBB",
+        "White": "#BBBBBB",
+        "BrightBlack": "#555555",
+        "BrightRed": "#FF5555",
+        "BrightGreen": "#55FF55",
+        "BrightYellow": "#FFFF55",
+        "BrightBlue": "#5555FF",
+        "BrightMagenta": "#FF55FF",
+        "BrightCyan": "#55FFFF",
+        "BrightWhite": "#FFFFFF"
+      },
+      "BackgroundImage": null
+    },
+    {
+      "Id": "0c6461cf-ee35-4f23-8e18-bfef87ddd072",
+      "Name": "Builtin Dark",
+      "Author": null,
+      "PreInstalled": false,
+      "Colors": {
+        "Foreground": "#BBBBBB",
+        "Background": "#000000",
+        "Cursor": "#BBBBBB",
+        "CursorAccent": "#FFFFFF",
+        "Selection": "rgba(181, 213, 255, 0.30078125)",
+        "SelectionForeground": null,
+        "SelectionBackground": null,
+        "Black": "#000000",
+        "Red": "#BB0000",
+        "Green": "#00BB00",
+        "Yellow": "#BBBB00",
+        "Blue": "#0000BB",
+        "Magenta": "#BB00BB",
+        "Cyan": "#00BBBB",
+        "White": "#BBBBBB",
+        "BrightBlack": "#555555",
+        "BrightRed": "#FF5555",
+        "BrightGreen": "#55FF55",
+        "BrightYellow": "#FFFF55",
+        "BrightBlue": "#5555FF",
+        "BrightMagenta": "#FF55FF",
+        "BrightCyan": "#55FFFF",
+        "BrightWhite": "#FFFFFF"
+      },
+      "BackgroundImage": null
+    },
+    {
+      "Id": "8a986909-afbb-44e9-8297-6b7ae787b274",
+      "Name": "BlulocoDark",
+      "Author": null,
+      "PreInstalled": false,
+      "Colors": {
+        "Foreground": "#ABB2BF",
+        "Background": "#1E2127",
+        "Cursor": "#FEC309",
+        "CursorAccent": "#FFFFFF",
+        "Selection": "rgba(47, 52, 65, 0.30078125)",
+        "SelectionForeground": null,
+        "SelectionBackground": null,
+        "Black": "#4A505D",
+        "Red": "#F81141",
+        "Green": "#23974A",
+        "Yellow": "#FD7E57",
+        "Blue": "#285BFF",
+        "Magenta": "#8C62FD",
+        "Cyan": "#366F9A",
+        "White": "#CCD5E5",
+        "BrightBlack": "#61697A",
+        "BrightRed": "#FC4A6D",
+        "BrightGreen": "#37BD58",
+        "BrightYellow": "#F6BE48",
+        "BrightBlue": "#199FFD",
+        "BrightMagenta": "#FC58F6",
+        "BrightCyan": "#50ACAE",
+        "BrightWhite": "#FFFFFF"
+      },
+      "BackgroundImage": null
+    },
+    {
+      "Id": "ec48ea83-829c-48ba-b193-e63357582e05",
+      "Name": "BlulocoLight",
+      "Author": null,
+      "PreInstalled": false,
+      "Colors": {
+        "Foreground": "#2A2C33",
+        "Background": "#F7F7F7",
+        "Cursor": "#ED0047",
+        "CursorAccent": "#FFFFFF",
+        "Selection": "rgba(210, 236, 255, 0.30078125)",
+        "SelectionForeground": null,
+        "SelectionBackground": null,
+        "Black": "#CBCCD5",
+        "Red": "#C90E42",
+        "Green": "#21883A",
+        "Yellow": "#D54D17",
+        "Blue": "#1E44DD",
+        "Magenta": "#6D1BED",
+        "Cyan": "#1F4D7A",
+        "White": "#000000",
+        "BrightBlack": "#DEDFE8",
+        "BrightRed": "#FC4A6D",
+        "BrightGreen": "#34B354",
+        "BrightYellow": "#B89427",
+        "BrightBlue": "#1085D9",
+        "BrightMagenta": "#C00DB3",
+        "BrightCyan": "#5B80AD",
+        "BrightWhite": "#1D1D22"
+      },
+      "BackgroundImage": null
+    }
+  ],
+  "Profiles": [
+    {
+      "Id": "e5785ad6-584f-40cb-bdcd-d5b3b3953e7f",
+      "PreInstalled": true,
+      "Name": "WSL",
+      "Arguments": "~",
+      "Location": "C:\\windows\\system32\\wsl.exe",
+      "WorkingDirectory": "",
+      "TabThemeId": 0,
+      "EnvironmentVariables": {
+        "TERM": "xterm-256color"
+      },
+      "UseConPty": true,
+      "UseBuffer": true,
+      "MigrationVersion": 1,
+      "TerminalThemeId": "ec48ea83-829c-48ba-b193-e63357582e05",
+      "KeyBindings": [
+        {
+          "Command": "e5785ad6-584f-40cb-bdcd-d5b3b3953e7f",
+          "Key": 51,
+          "Ctrl": true,
+          "Alt": true,
+          "Shift": false,
+          "Meta": false
+        }
+      ]
+    },
+    {
+      "Id": "ab942a61-7673-4755-9bd8-765aff91d9a3",
+      "PreInstalled": true,
+      "Name": "CMD",
+      "Arguments": "",
+      "Location": "C:\\Windows\\System32\\cmd.exe",
+      "WorkingDirectory": "",
+      "TabThemeId": 0,
+      "EnvironmentVariables": {
+        "TERM": "xterm-256color"
+      },
+      "UseConPty": true,
+      "UseBuffer": true,
+      "MigrationVersion": 1,
+      "TerminalThemeId": "281e4352-bb50-47b7-a691-2b13830df95e",
+      "KeyBindings": [
+        {
+          "Command": "ab942a61-7673-4755-9bd8-765aff91d9a3",
+          "Key": 50,
+          "Ctrl": true,
+          "Alt": true,
+          "Shift": false,
+          "Meta": false
+        }
+      ]
+    },
+    {
+      "Id": "813f2298-210a-481a-bdbf-c17bc637a3e2",
+      "PreInstalled": true,
+      "Name": "Powershell",
+      "Arguments": "-nol",
+      "Location": "C:\\windows\\system32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "WorkingDirectory": "",
+      "TabThemeId": 0,
+      "EnvironmentVariables": {
+        "TERM": "xterm-256color"
+      },
+      "UseConPty": true,
+      "UseBuffer": false,
+      "MigrationVersion": 1,
+      "TerminalThemeId": "ec48ea83-829c-48ba-b193-e63357582e05",
+      "KeyBindings": [
+        {
+          "Command": "813f2298-210a-481a-bdbf-c17bc637a3e2",
+          "Key": 49,
+          "Ctrl": true,
+          "Alt": true,
+          "Shift": false,
+          "Meta": false
+        }
+      ]
+    }
+  ],
+  "SshProfiles": [
+    {
+      "Host": "104.211.92.154",
+      "SshPort": 22,
+      "Username": "azureuser",
+      "IdentityFile": null,
+      "UseMosh": false,
+      "MoshPortFrom": 60001,
+      "MoshPortTo": 60999,
+      "Id": "f28e8a36-3596-4e61-8e0c-2ac10890d057",
+      "PreInstalled": false,
+      "Name": "Ubuntu Azure",
+      "Arguments": "azureuser@104.211.92.154",
+      "Location": "ssh",
+      "WorkingDirectory": null,
+      "TabThemeId": 0,
+      "EnvironmentVariables": {},
+      "UseConPty": true,
+      "UseBuffer": true,
+      "MigrationVersion": 1,
+      "TerminalThemeId": "32519543-bf94-4db6-92a1-7bcec3966c82",
+      "KeyBindings": [
+        {
+          "Command": "f28e8a36-3596-4e61-8e0c-2ac10890d057",
+          "Key": 52,
+          "Ctrl": true,
+          "Alt": true,
+          "Shift": false,
+          "Meta": false
+        }
+      ]
+    }
+  ],
+  "DefaultSettings": {
+    "DefaultShellProfile": "813f2298-210a-481a-bdbf-c17bc637a3e2",
+    "CurrentTheme": "3571ce1b-31ce-4cf7-ae15-e0bff70c3eea"
+  }
+}
