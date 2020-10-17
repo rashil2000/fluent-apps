@@ -1,0 +1,70 @@
+{
+  //---- Extension-specific Settings ----
+  //Code Runner
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.runInTerminal": true,
+  //Live SASS Compile
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "~/../css/"
+    }
+  ],
+  //VSCode Vibrancy
+  "vscode_vibrancy.opacity": 0.6,
+  "vscode_vibrancy.theme": "Light (Only Subbar)",
+  //Excel Viewer
+  "csv-preview.capitalizeHeaders": false,
+  "csv-preview.lineNumbers": "ordinal",
+
+  //---- File-type Associations ----
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  //---- Core Settings ----
+  "terminal.integrated.rendererType": "dom",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "terminal.integrated.shellArgs.windows": "-nol",
+  "emmet.triggerExpansionOnTab": true,
+  "editor.fontFamily": "DankMono NF",
+  "terminal.integrated.fontFamily": "CaskaydiaCove NF",
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnType": true,
+  "editor.minimap.maxColumn": 50,
+  "editor.minimap.enabled": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "Comment",
+        "scope": [
+          "comment",
+          "comment.block",
+          "comment.block.documentation",
+          "comment.line",
+          "comment.line.double-slash",
+          "punctuation.definition.comment",
+        ],
+        "settings": {
+          "fontStyle": "italic",
+        }
+      },
+    ]
+  },
+  "window.menuBarVisibility": "toggle",
+  "workbench.statusBar.visible": false,
+  "workbench.colorTheme": "Bluloco Light Italic",
+  "extensions.ignoreRecommendations": false,
+  "powershell.enableProfileLoading": false,
+  "powershell.integratedConsole.showOnStartup": false
+}
