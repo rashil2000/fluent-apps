@@ -7,10 +7,12 @@ This folder contains the following shell profile configurations:
 - `.zshrc` for ZSh.
 - `.tmux.conf` for TMux.
 
-Here are the shells running on my system:
+Here are the shells running on my system -
 
-Windows PowerShell and a remote Ubuntu Server
+Windows PowerShell and a remote Ubuntu Server:
+
 ![PowerShell, Ubuntu Server](powershell,remote.png)
 
-Command Prompt and Kali on WSL
+Command Prompt and Kali on WSL:
+
 ![CMD, WSL](cmd,wsl.png)
