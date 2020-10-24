@@ -14,12 +14,12 @@ And in Dark theme
 
 ## QTTabBar
 
-[QTTabBar](http://qttabbar.wikidot.com/) is a set of shell extensions that add features like multiple tabs, command bars, preview panes, content tooltips etc. to the Windows Explorer. It is highly extensible and extremely helpful when managing a lot of files/folders simultaneously.
+[QTTabBar](http://qttabbar.wikidot.com/) is a set of shell extensions that add features like multiple tabs, command bars, preview panes, content tooltips and much more to the Windows Explorer. It is highly extensible and extremely helpful when managing a lot of files/folders simultaneously.
 
 . | . | .
 :-: | :-: | :-:
-Multiple Tabs | Image Preview | Content Tooltips
-![Multiple Tabs](qttabbar-tabs.png) | ![Image Preview](qttabbar-image.jpg) | ![Content Tooltips](qttabbar-content.png)
+Multiple Tabs | Image/Video Preview | Content Tooltips
+![Multiple Tabs](qttabbar-tabs.png) | ![Image/Video Preview](qttabbar-image.jpg) | ![Content Tooltips](qttabbar-content.png)
 
 ## Vifm
 
