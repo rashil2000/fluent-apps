@@ -16,7 +16,7 @@ I've included the VSCode `settings.json` file here for inspiration.
 
 ## Quick Pad
 
-Tired of the age-old Notepad? Give [Quick-Pad](https://github.com/yaichenbaum/Quick-Pad), a beautiful alternative to Notepad, a chance. Keeping fluent design in mind, Quick-Pad has a adds a lot of quality-of-ife improvements over the classic Notepad.
+Tired of the age-old Notepad? Give [Quick-Pad](https://github.com/yaichenbaum/Quick-Pad), a beautiful alternative to Notepad, a chance. Keeping fluent design in mind, Quick-Pad adds lots of quality-of-life improvements over the classic Notepad.
 
 Here's a quick look in both light and dark themes:
 
