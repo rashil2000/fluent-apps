@@ -16,7 +16,7 @@ If this is too much work, just press Windows key + G to open up the Game Bar to 
 
 Windows Spotlight offers some unbelievably great looking wallpapers that refresh daily. However, curently Settings only provide the option to set the lockscreen as Spotlight wallpaper. Upcoming releases will have the option to set Spotlight as desktop backgrounds too. Meanwhile, [Spotlight Desktop](https://wallpaper.onlineth.com/) can be used to automatically synchronize desktop wallpaper with the Spotlight lockscreen in the background.
 
-If you're better off just downloading some wallpapers, check out this awesome website that has thousands of eye-popping wallpapers: [WallpaperHub](https://wallpaperhub.app/). Here's a peek:
+If you're better off just downloading some wallpapers, check out this awesome website that has thousands of eye-popping wallpapers: [WallpaperHub](https://wallpaperhub.app/). Microsoft Design also has its own [collection](https://wallpapers.microsoft.design/) of top notch and high quality wallpapers. Here's a peek at WallpaperHub:
 
 ![WallpaperHub](wallpaperhub.png)
 
