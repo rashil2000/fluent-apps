@@ -23,7 +23,7 @@ Multiple Tabs | Image/Video Preview | Content Tooltips
 
 ## Vifm
 
-[Vifm](https://vifm.info/) is a commandline file explorer with Vim keybindings, and is super useful for quickly looking up stuff when working in the terminal. I've included my personalised `vifmrc` here that adds icons and improves colors. Here are some screenshots, along with Files in vertical-flyout mode.
+[Vifm](https://vifm.info/) is a commandline file explorer with Vim keybindings, and is super useful for quickly looking up stuff when working in the terminal. It can be customized to show icons and configure colorschemes. Here are some screenshots, along with Files in vertical-flyout mode.
 
 ![Vifm - Light](vifm-light.png)
 

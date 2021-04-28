@@ -32,10 +32,6 @@ The theme can be automatically changed from Light to Dark and back to Light, dep
 
 ![Auto Switcher](auto-switcher.png)
 
-If you're familiar with a bit of PowerShell, there's a `ThemeSwitch.ps1` script here that changes wallpapers, system theme, app theme, and themes of some apps (Windows Terminal, VS Code, NeoVim). You can set a custom shortcut calling this script and place it on your Desktop to enable switching with just a click. Modify the file to suit your needs.
-
-On the off chance you're on Linux, the script `theme-switch.sh` can be used to make similar changes in Xfce desktop environment, and some other apps (Vim, FireFox, Spotify-TUI, Bashtop). Again, some modification would be necessary.
-
 ## PowerToys
 
 [PowerToys](https://github.com/microsoft/powertoys) by Microsoft is an awesome set of utilities designed to add useful little features to aid in daily usage. Here are some screenshots of the tools I use.
